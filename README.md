@@ -2,6 +2,6 @@ Primer cambio
 Segundo cambio
 tercer cambio
 editado en local
+editado en github
 # DevOps
-
-Curso Getafe DevOps
+curso Getafe DevOps
